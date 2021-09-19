@@ -1,3 +1,4 @@
+ footer
 .final{
     background-color: gray;
   width: 100%;
@@ -51,3 +52,13 @@
     color: #24262b;
     background-color: #ffffff;
 }
+#body{
+    background-color: gray;
+}
+
+
+
+.parrafo {
+    background-color: green;
+}
+ main
